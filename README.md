@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_DA_SUA_IMAGEM" width="100%" />
+  <img src="assets/fundo.png" width="100%" />
 </p>
 ## Hi there 👋
 
