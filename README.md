@@ -1,27 +1,15 @@
-<div align="center" style="position: relative;">
+<div style="
+  width: 100%;
+  height: 200px;
+  background: linear-gradient(135deg, #3E2723, #8B5E3C, #C08A5A);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+">
 
-  <img src="https://github.com/CiroKyushima/CiroKyushima/blob/f46ae93b0da021167936c84ababb47fe6a4278a2/assets/fundo.png" width="100%" />
-
-  <h1 style="
-    position: absolute;
-    top: 30%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 40px;
-  ">
-    Hi, I'm Ciro 👋
+  <h1 style="color: white; font-size: 36px;">
+    Ciro Kyushima
   </h1>
-
-  <p style="
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 20px;
-  ">
-    Data Analyst | AI | Automation
-  </p>
 
 </div>
