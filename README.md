@@ -1,19 +1,27 @@
-<p align="center">
+<div align="center" style="position: relative;">
+
   <img src="https://github.com/CiroKyushima/CiroKyushima/blob/f46ae93b0da021167936c84ababb47fe6a4278a2/assets/fundo.png" width="100%" />
-</p>
-## Hi there 👋
 
-<!--
-**CiroKyushima/CiroKyushima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 style="
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 40px;
+  ">
+    Hi, I'm Ciro 👋
+  </h1>
 
-Here are some ideas to get you started:
+  <p style="
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 20px;
+  ">
+    Data Analyst | AI | Automation
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
