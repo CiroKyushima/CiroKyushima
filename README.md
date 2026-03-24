@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/fundo.png" width="100%" />
+  <img src="CiroKyushima/assets/fundo.png" width="100%" />
 </p>
 ## Hi there 👋
 
