@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[assets/fundo.png](https://github.com/CiroKyushima/CiroKyushima/blob/f46ae93b0da021167936c84ababb47fe6a4278a2/assets/fundo.png)" width="100%" />
+  <img src="https://github.com/CiroKyushima/CiroKyushima/blob/f46ae93b0da021167936c84ababb47fe6a4278a2/assets/fundo.png" width="100%" />
 </p>
 ## Hi there 👋
 
