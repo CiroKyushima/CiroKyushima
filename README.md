@@ -87,7 +87,6 @@
 
 <div align="center">
 
-###  Turning Data into Intelligent Solutions
 *"Building systems that connect data, intelligence and the real world."*
 
 </div>
